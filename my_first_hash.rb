@@ -41,8 +41,12 @@ def adding
   # return the shipping_manifest hash below
   
   shipping_manifest = {"whale bone corsets" => 5, "porcelain vases" => 2, "oil paintings" => 3}
+<<<<<<< HEAD
    shipping_manifest["muskets"] = 2 
    shipping_manifest["gun powder"] = 4
    
+=======
+   shipping_manifest[""]
+>>>>>>> 7a1606ad7241b01c736a7cbca96f8948834ff56c
   shipping_manifest
 end
